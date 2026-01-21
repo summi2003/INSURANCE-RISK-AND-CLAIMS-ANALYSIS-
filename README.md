@@ -62,5 +62,5 @@ Fraud Detection: By identifying outliers in the "Average Claim Amount" vs. "Car 
 Marketing Strategy: Marketing teams can target "Low-Risk" profiles (e.g., highly educated, married policyholders) with loyalty discounts.<br>
 Operational Efficiency: Provides stakeholders with a "single source of truth," moving away from scattered data sources to a unified reporting system.<br>
 ### 6.	Screenshots
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-[Dashboard Preview]
+Show what the dashboard looks like. - ![Alt text](https://github.com/summi2003/INSURANCE-RISK-AND-CLAIMS-ANALYSIS-/blob/main/Insurance%20-%20dashboard%20screenhsort.png)<br>
+[Dashboard Preview](https://github.com/summi2003/INSURANCE-RISK-AND-CLAIMS-ANALYSIS-/blob/main/Insurance%20-%20dashboard%20screenhsort.png)

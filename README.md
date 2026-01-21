@@ -7,8 +7,7 @@ Risk Segmentation: Identifying demographic and behavioral traits that lead to hi
 
 Loss Ratio Analysis: Calculating the relationship between premiums earned and claims paid.
 
-Predictive Modeling: Building a model to estimate the probability of a claim being filed based on policyholder attributes.
-
+Predictive Modeling: Building a model to estimate the probability of a claim being filed based on policyholder attributes.\n
 Business Impact In the insurance industry, profitability relies on the "Loss Ratio." This project focuses on lowering that ratio by:
 
 Early Warning: Detecting patterns in "Frequency" (how often claims happen) and "Severity" (how expensive they are).
